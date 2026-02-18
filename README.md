@@ -1,4 +1,4 @@
 # MSD-readout
 Two MATLAB codes for digital and analog MSD readouts
 
-Microfluidic sieve-detector for rapid capture and detectino of single molecules
+Microfluidic sieve and detector for rapid ultrasensitive assays with single-molecule sensitivity
